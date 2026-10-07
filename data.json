@@ -60,9 +60,11 @@
     "location": "", "link": "" },
     { "date": "2026-12-20", "time": "16:00", "title": "Rams Game Fundraiser",
     "location": "", "link": "" },
-    { "date": "2027-01-01", "time": "", "title": "Super Bowl Squares",
+    { "date": "2027-01-01", "time": "", "title": "Super Bowl Squares Sign-Ups Open",
     "location": "", "link": "" },
     { "date": "2027-03-13", "time": "", "title": "St. Paddy's Bake Sale",
+    "location": "", "link": "" },
+    { "date": "2027-03-18", "time": "", "title": "March Madness Pool",
     "location": "", "link": "" },
     { "date": "2027-08-07", "time": "", "title": "Cooperstown Check In! (arrival time TBD, plan on the afternoon; no games)",
     "location": "Cooperstown Dreams Park", "link": "" },
@@ -111,8 +113,6 @@
   ],
 
   "sponsors": [
-    { "name": "SAMPLE - Joe's Pizza", "tier": "Gold", "logo": "", "url": "" }
-
   ],
 
   "donateLinks": [
