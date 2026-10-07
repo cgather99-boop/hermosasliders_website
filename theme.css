@@ -11,22 +11,25 @@
    --accent-hover  Slightly darker accent for accent button hover
    --on-accent     Text/icon color on top of accent (pick dark or white so it stays readable)
 
-   --text / --muted / --border / --bg / --surface: neutral page colors */
+   --text / --muted / --border / --bg / --surface: neutral page colors
+
+   Sliders: matched to the uniforms in the team photo. Navy sleeves (primary),
+   red caps and socks (accent), and powder-blue jerseys (tint and borders). */
 
 :root {
-  --primary: #3F2A7E;
-  --primary-dark: #2A1B5C;
-  --primary-tint: #EEEAF7;
+  --primary: #1F2D5C;
+  --primary-dark: #141D3D;
+  --primary-tint: #DCEFFB;
   --on-primary: #FFFFFF;
 
-  --accent: #F4B223;
-  --accent-light: #FCE7B2;
-  --accent-hover: #E6A30F;
-  --on-accent: #2A1B5C;
+  --accent: #C11A31;
+  --accent-light: #FBE3E6;
+  --accent-hover: #A0142A;
+  --on-accent: #FFFFFF;
 
-  --text: #1F1A2E;
-  --muted: #6B6580;
-  --border: #E2DDF0;
+  --text: #16203D;
+  --muted: #5A6480;
+  --border: #B9DDF4;
   --bg: #FFFFFF;
   --surface: #FFFFFF;
 }

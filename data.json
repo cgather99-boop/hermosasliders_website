@@ -2,12 +2,12 @@
   "_readme": "Edit the values below to update the website. Anything marked SAMPLE is placeholder content - replace it with real info. Dates use YYYY-MM-DD, times use 24-hour HH:MM.",
 
   "team": {
-    "name": "Jr Kings 2014 AAA",
-    "shortName": "Jr Kings",
-    "tripName": "the Quebec International Pee-Wee Hockey Tournament",
-    "tagline": "Help our players make it to the Quebec PeeWee Tournament!",
+    "name": "Hermosa Beach Sliders",
+    "shortName": "Hermosa Beach Sliders",
+    "tripName": "the Cooperstown Dreams Park 12U Tournament",
+    "tagline": "Help our players make it to Cooperstown Dreams Park!",
     "logo": "Images/logo.png",
-    "contactEmail": "jrkings2014aaa@gmail.com",
+    "contactEmail": "",
     "taxNote": "Donations may be tax-deductible. Contact us for a receipt.",
     "sponsorContact": ""
   },
@@ -20,66 +20,48 @@
   ],
 
   "teamPhoto": {
-    "src": "Images/team_photo.png",
-    "alt": "Jr Kings players huddled around the net in purple and gold jerseys",
+    "src": "Images/team_photo.jpeg",
+    "alt": "Hermosa Beach Sliders team photo",
     "caption": ""
   },
 
   "about": {
-    "title": "Quebec International Pee-Wee Hockey Tournament",
+    "title": "Cooperstown Dreams Park 12U Tournament",
     "paragraphs": [
-      "The Quebec International Pee-Wee Hockey Tournament is one of the world’s premier youth hockey events, bringing together elite 11- and 12-year-old players from across Canada, the United States, and around the world. Held annually in Quebec City, the tournament provides young athletes with the opportunity to compete against high-level international competition in a world-class hockey environment.",
-      "Participating offers benefits well beyond hockey. Players gain experience competing under pressure, adapt to different playing styles, build confidence and resilience, and develop lasting relationships with teammates and players from other cultures. Playing in front of large crowds at the Videotron Centre also creates a memorable experience that can inspire young athletes and reinforce the values of teamwork, sportsmanship, commitment, and personal growth."
+      "The Cooperstown Dreams Park 12U tournament is a week-long, highly competitive youth baseball experience in Cooperstown, New York. The August 7–13, 2027 week will bring together teams from across the country for a combination of pool play, bracket competition, and the full Cooperstown experience.",
+      "The tournament begins with check-in, team activities and the Opening Ceremony/Skills Competitions, followed by several days of pool-play games. Teams then advance into single-elimination bracket play, where every game becomes win-or-go-home. Cooperstown guarantees teams at least six games, with the possibility of playing as many as 13 games, weather permitting.",
+      "The week is much more than baseball. Players stay together in the Cooperstown Dreams Park team clubhouses, eat meals together, participate in team activities and experience the unique atmosphere of playing against teams from around the country. The week also includes the American Youth Baseball Hall of Fame experience, tournament traditions, pin trading, and the opportunity to create memories with teammates and families."
     ],
     "linkText": "Visit the tournament website",
-    "linkUrl": "https://www.tournoipee-wee.qc.ca/en/index.html"
+    "linkUrl": "https://www.cooperstowndreamspark.com/"
   },
 
   "goal": {
-    "target": 50000,
-    "raised": 831,
+    "target": 30000,
+    "raised": 0,
     "purpose": "Your support helps with tournament costs, transportation, and lodging.",
-    "deadline": "2026-02-08"
+    "deadline": "2027-08-07"
   },
 
   "events": [
-    { "date": "2026-11-23", "time": "09:00", "title": "Thanksgiving Tournament Booth", 
-    "location": "Toyota Sports Performance Center", "link": "https://www.jrkingshockey.com/tourneys" }
+    { "date": "2026-10-10", "time": "09:00", "title": "Garage Sale Fundraiser", 
+    "location": "Ardmore Dr, Hermosa Beach", "link": "" }
   ],
 
   "players": [
-    { "number": 11, "name": "Bastian (Bash) Daigle", "position": "Forward", "photo": "" },
-    { "number": 9, "name": "Benjamin (Benji) Adoumie", "position": "Forward", "photo": "" },
-    { "number": 97, "name": "Brooke Born", "position": "Defense", "photo": "" },
-    { "number": 51, "name": "Carter Perosio", "position": "Goalie", "photo": "" },
-    { "number": 85, "name": "Charlie Fox", "position": "Goalie", "photo": "" },
-    { "number": 21, "name": "Cru Martinson", "position": "Defense", "photo": "" },
-    { "number": 29, "name": "Eli Baker", "position": "Forward", "photo": "" },
-    { "number": 96, "name": "Henry Gathercole", "position": "Forward", "photo": "" },
-    { "number": 23, "name": "Hudson Jones", "position": "Defense", "photo": "" },
-    { "number": 16, "name": "Mark Rettele", "position": "Forward", "photo": "" },
-    { "number": 91, "name": "Micah Song", "position": "Forward", "photo": "" },
-    { "number": 78, "name": "Milo Su", "position": "Forward", "photo": "" },
-    { "number": 44, "name": "Nicolas Van Den Bosch", "position": "Defense", "photo": "" },
-    { "number": 79, "name": "Nixon Tebo", "position": "Forward", "photo": "" },
-    { "number": 87, "name": "Tristan Chang", "position": "Forward", "photo": "" },
-    { "number": 50, "name": "Vance Seeley", "position": "Forward", "photo": "" },
-    { "number": 71, "name": "Vincent Yang", "position": "Defense", "photo": "" }
-
-    
   ],
 
-  "swagIntro": "Show your Jr Kings pride! Pick a size and tap Order to email us your request. Every purchase supports the trip to Quebec.",
+  "swagIntro": "Show your Hermosa Beach Sliders pride! Pick a size and tap Order to email us your request. Every purchase supports the trip to Cooperstown.",
 
   "swag": [
-    { "name": "SAMPLE - Jr Kings T-Shirt", "price": 25, "image": "", "description": "Purple tee with the gold crown logo",
+    { "name": "SAMPLE - Hermosa Beach Sliders T-Shirt", "price": 25, "image": "", "description": "Sky blue tee with the Sliders logo",
       "sizes": ["Youth S", "Youth M", "Youth L", "Adult S", "Adult M", "Adult L", "Adult XL"] },
-    { "name": "SAMPLE - Jr Kings Pajamas", "price": 35, "image": "", "description": "Cozy flannel pajama pants",
+    { "name": "SAMPLE - Hermosa Beach Sliders Pajamas", "price": 35, "image": "", "description": "Cozy flannel pajama pants",
       "sizes": ["Youth S", "Youth M", "Youth L", "Adult S", "Adult M", "Adult L", "Adult XL"] }
   ],
 
   "donations": [
-    { "name": "SAMPLE - Smith Family", "amount": 100, "date": "2026-09-24", "message": "Go Kings!", "anonymous": false }
+    { "name": "SAMPLE - Smith Family", "amount": 100, "date": "2026-09-24", "message": "Go Sliders!", "anonymous": false }
 
   ],
 
@@ -89,13 +71,8 @@
   ],
 
   "donateLinks": [
-    { "label": "Venmo", "icon": "venmo", "url": "https://venmo.com/code?user_id=4693719575955224094&created=1790382194.316657&printed=1", "handle": "@LAJrKings2014AAA" },
-    { "label": "Zelle", "icon": "zelle", "url": "", "handle": "", "qr": "Images/zelle.png" }
-
   ],
 
   "social": [
-    { "platform": "instagram", "handle": "jrkings2014aaa", "url": "https://www.instagram.com/jrkings2014aaa?stkn=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr" }
-
   ]
 }
