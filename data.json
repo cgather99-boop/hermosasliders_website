@@ -28,7 +28,7 @@
   "about": {
     "title": "Cooperstown Dreams Park 12U Tournament",
     "paragraphs": [
-      "The Cooperstown Dreams Park 12U tournament is a week-long, highly competitive youth baseball experience in Cooperstown, New York. The August 7–13, 2027 week will bring together teams from across the country for a combination of pool play, bracket competition, and the full Cooperstown experience.",
+      "The Cooperstown Dreams Park 12U tournament is a week-long, highly competitive youth baseball experience in Cooperstown, New York. The August 7–12, 2027 week will bring together teams from across the country for a combination of pool play, bracket competition, and the full Cooperstown experience.",
       "The tournament begins with check-in, team activities and the Opening Ceremony/Skills Competitions, followed by several days of pool-play games. Teams then advance into single-elimination bracket play, where every game becomes win-or-go-home. Cooperstown guarantees teams at least six games, with the possibility of playing as many as 13 games, weather permitting.",
       "The week is much more than baseball. Players stay together in the Cooperstown Dreams Park team clubhouses, eat meals together, participate in team activities and experience the unique atmosphere of playing against teams from around the country. The week also includes the American Youth Baseball Hall of Fame experience, tournament traditions, pin trading, and the opportunity to create memories with teammates and families."
     ],
@@ -44,11 +44,56 @@
   },
 
   "events": [
-    { "date": "2026-10-10", "time": "09:00", "title": "Garage Sale Fundraiser", 
-    "location": "Ardmore Dr, Hermosa Beach", "link": "" }
+    { "date": "2026-10-10", "time": "13:00", "title": "Lemonade Stand",
+    "location": "Hermosa Beach Pier", "link": "" },
+    { "date": "2026-10-15", "time": "", "title": "World Series Prop Bets (tentative)",
+    "location": "", "link": "" },
+    { "date": "2026-10-17", "time": "08:00", "title": "Garage Sale",
+    "location": "Smith House, 305 Ardmore Ave", "link": "" },
+    { "date": "2026-10-25", "time": "11:30", "title": "Halloween Themed Bake Sale (tentative)",
+    "location": "Hermosa Beach Pier (tentative)", "link": "" },
+    { "date": "2026-11-14", "time": "13:00", "title": "Lemonade Stand",
+    "location": "Hermosa Beach Pier", "link": "" },
+    { "date": "2026-11-25", "time": "16:00", "title": "Rams Game Fundraiser",
+    "location": "", "link": "" },
+    { "date": "2026-12-03", "time": "16:00", "title": "Rams Game Fundraiser",
+    "location": "", "link": "" },
+    { "date": "2026-12-20", "time": "16:00", "title": "Rams Game Fundraiser",
+    "location": "", "link": "" },
+    { "date": "2027-01-01", "time": "", "title": "Super Bowl Squares",
+    "location": "", "link": "" },
+    { "date": "2027-03-13", "time": "", "title": "St. Paddy's Bake Sale",
+    "location": "", "link": "" },
+    { "date": "2027-08-07", "time": "", "title": "Cooperstown Check In! (arrival time TBD, plan on the afternoon; no games)",
+    "location": "Cooperstown Dreams Park", "link": "" },
+    { "date": "2027-08-08", "time": "", "title": "Opening Ceremonies / Skills Challenges; one game in the afternoon",
+    "location": "Cooperstown Dreams Park", "link": "" },
+    { "date": "2027-08-09", "time": "", "title": "Game Day - 2 games",
+    "location": "Cooperstown Dreams Park", "link": "" },
+    { "date": "2027-08-10", "time": "", "title": "Game Day - 2 games",
+    "location": "Cooperstown Dreams Park", "link": "" },
+    { "date": "2027-08-11", "time": "", "title": "Single Elimination Tournament Begins",
+    "location": "Cooperstown Dreams Park", "link": "" },
+    { "date": "2027-08-12", "time": "21:00", "title": "Tournament / Championship Game",
+    "location": "Cooperstown Dreams Park", "link": "" },
+    { "date": "2027-08-16", "time": "", "title": "First Day of School - HVS",
+    "location": "", "link": "" }
   ],
 
   "players": [
+    { "name": "Bruce Greene" },
+    { "name": "Decker Smith" },
+    { "name": "Easton Cuza" },
+    { "name": "Elon Genel" },
+    { "name": "Henry Gathercole" },
+    { "name": "Hugo Cangelosi" },
+    { "name": "Jackson Bell" },
+    { "name": "Jett Trudell" },
+    { "name": "Maverick Madden" },
+    { "name": "Nico DiCorpo" },
+    { "name": "Parker Solomon" },
+    { "name": "Talan Trudell" },
+    { "name": "Thomas Wachtfogel" }
   ],
 
   "swagIntro": "Show your Hermosa Beach Sliders pride! Pick a size and tap Order to email us your request. Every purchase supports the trip to Cooperstown.",
