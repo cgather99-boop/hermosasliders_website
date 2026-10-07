@@ -71,6 +71,7 @@
   ],
 
   "donateLinks": [
+    { "label": "Venmo", "icon": "venmo", "url": "https://account.venmo.com/u/hermosasliders", "handle": "@hermosasliders" }
   ],
 
   "social": [
