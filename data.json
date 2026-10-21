@@ -15,8 +15,7 @@
   "nav": [
     { "label": "Home", "href": "index.html", "icon": "home" },
     { "label": "Players", "href": "players.html", "icon": "users" },
-    { "label": "Schedule", "href": "schedule.html", "icon": "calendar" },
-    { "label": "Team Swag", "href": "swag.html", "icon": "shirt" }
+    { "label": "Schedule", "href": "schedule.html", "icon": "calendar" }
   ],
 
   "teamPhoto": {
